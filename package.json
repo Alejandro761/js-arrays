@@ -1,0 +1,23 @@
+{
+  "name": "js-arrays",
+  "version": "1.0.0",
+  "description": "aprendiendo a manipular arraysen js",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro761/js-arrays.git"
+  },
+  "author": "ale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro761/js-arrays/issues"
+  },
+  "homepage": "https://github.com/Alejandro761/js-arrays#readme"
+}
