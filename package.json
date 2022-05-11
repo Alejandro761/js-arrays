@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "aprendiendo a manipular arraysen js",
   "main": "index.js",
-  "dependencies": {
-    "http-server": "^0.12.3"
-  },
+  
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Alejandro761/js-arrays/issues"
   },
-  "homepage": "https://github.com/Alejandro761/js-arrays#readme"
+  "homepage": "https://github.com/Alejandro761/js-arrays#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
