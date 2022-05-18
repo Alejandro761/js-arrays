@@ -10,3 +10,14 @@ console.log(newArray);
 
 const rta = elements.concat(othersElements);
 console.log(rta);
+const rta2 = [...elements, ...othersElements]; //otra manera de concatenar arrays
+console.log(rta2)
+
+const rta3 = [...elements, 'hola'];
+console.log(rta3) 
+
+const rta4 = [...elements, ...'hola']; //si incluimos un string con spread operation entonces separara el string en un array, es decir cada letra sera un elemento del nuevo array
+console.log(rta4)
+
+elements.push(othersElements); //esto pone el array de others como un elemento mas de elements
+console.log(elements);
